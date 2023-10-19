@@ -1,0 +1,2 @@
+% acc <-- acc ^ literal
+XOR 0xBEEFFACE

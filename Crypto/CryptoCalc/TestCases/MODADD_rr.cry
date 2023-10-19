@@ -1,0 +1,2 @@
+% acc = (r1 + r2) mod bcc
+MODADD r1 r2

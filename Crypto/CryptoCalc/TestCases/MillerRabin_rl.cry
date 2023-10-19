@@ -1,0 +1,3 @@
+# set condition register to true if register is probably prime according to Miller Rabin test HAC sec 4.2.3 the literal is t the security parameter
+
+MillerRabin r607 12

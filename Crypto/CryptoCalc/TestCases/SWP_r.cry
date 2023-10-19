@@ -1,0 +1,3 @@
+% Swap accumulator and register
+
+SWP r2

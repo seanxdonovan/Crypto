@@ -1,0 +1,3 @@
+# set condition register to true if literal is probably prime according to Miller Rabin test HAC sec 4.2.3
+
+MillerRabin 0xFFEEEDDDDCCCCCAAAABBBB00009999999888882227777776665555444433331111 10

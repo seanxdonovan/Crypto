@@ -1,0 +1,2 @@
+% acc = (r1 * r2) mod bcc
+MODMUL r1 r2

@@ -1,0 +1,3 @@
+% Load accumulator with a register
+
+LDA r27

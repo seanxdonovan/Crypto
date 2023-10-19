@@ -1,0 +1,2 @@
+% acc <-- register1 | register2
+OR r1 r2

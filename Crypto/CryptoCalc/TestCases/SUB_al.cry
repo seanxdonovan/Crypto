@@ -1,0 +1,3 @@
+% subtract literal from accumulator
+
+SUB 1 % subtract one from acc

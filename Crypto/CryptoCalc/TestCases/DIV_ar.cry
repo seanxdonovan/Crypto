@@ -1,0 +1,4 @@
+% acc = acc / r1
+% bcc = acc % r1
+
+DIV r1

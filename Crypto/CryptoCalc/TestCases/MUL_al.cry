@@ -1,0 +1,3 @@
+% multiply accumulator by literal and store in accumulator
+
+MUL 7 % acc <-- 7 * acc

@@ -1,0 +1,3 @@
+% Add literal to accumulator
+
+ADD r1 % add one to acc

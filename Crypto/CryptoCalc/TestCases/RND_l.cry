@@ -1,0 +1,2 @@
+% generate k bit random number in acc
+RND 4095

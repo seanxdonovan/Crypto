@@ -1,0 +1,4 @@
+% acc = acc / literal
+% bcc = acc % literal
+
+DIV 7

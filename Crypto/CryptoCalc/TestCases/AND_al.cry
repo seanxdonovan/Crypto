@@ -1,0 +1,2 @@
+% acc <-- acc & literal
+AND 0xFFFFF

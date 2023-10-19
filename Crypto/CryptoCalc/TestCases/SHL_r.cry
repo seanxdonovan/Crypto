@@ -1,0 +1,3 @@
+% acc = acc << register
+
+SHL r2

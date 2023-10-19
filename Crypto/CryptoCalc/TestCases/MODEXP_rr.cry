@@ -1,0 +1,2 @@
+% acc = Power(r1, r2) mod bcc
+MODEXP r1 r2

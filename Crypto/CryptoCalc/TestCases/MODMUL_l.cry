@@ -1,0 +1,2 @@
+% acc = (acc * literal) mod bcc
+MODMUL 52

@@ -1,0 +1,2 @@
+% r3 <-- register1 & register2
+AND r1 r2 r3

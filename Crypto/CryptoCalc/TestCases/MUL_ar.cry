@@ -1,0 +1,3 @@
+% multiply acc by r1
+
+MUL r1 %  acc <-- acc * r1

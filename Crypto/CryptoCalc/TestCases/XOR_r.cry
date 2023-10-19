@@ -1,0 +1,2 @@
+% acc <-- acc ^ register
+XOR r919

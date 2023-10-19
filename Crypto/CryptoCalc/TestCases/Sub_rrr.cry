@@ -1,0 +1,3 @@
+% sub two registers and store in a third
+
+SUB r1 r2 r3 % r3 <-- r1 - r2

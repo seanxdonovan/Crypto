@@ -1,0 +1,2 @@
+% acc <-- register1 & register2
+AND r1 r2

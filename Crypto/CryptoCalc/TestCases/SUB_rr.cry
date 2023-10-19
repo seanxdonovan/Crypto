@@ -1,0 +1,3 @@
+% sub two registers and store in accumulator
+
+SUB r1 r2

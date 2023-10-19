@@ -1,0 +1,3 @@
+% r3  = r1 / r2
+% bcc = r1 % r2
+DIV r1 r2 r3

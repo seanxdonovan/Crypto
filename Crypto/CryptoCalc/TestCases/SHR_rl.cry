@@ -1,0 +1,3 @@
+% register = register >> literal
+
+SHR r2 2112

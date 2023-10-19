@@ -1,0 +1,3 @@
+% register1 = register1 << register2
+
+SHL r1 r2

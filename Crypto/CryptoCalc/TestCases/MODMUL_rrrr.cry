@@ -1,0 +1,2 @@
+% r3 = (r1 * r2) mod r4
+MODMUL r1 r2 r3 r4

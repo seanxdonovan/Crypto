@@ -1,0 +1,3 @@
+% Load accumulator with literal
+
+LDA 17
